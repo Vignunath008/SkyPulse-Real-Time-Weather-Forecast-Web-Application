@@ -23,13 +23,13 @@ SkyPulse is a responsive weather web application developed using HTML, CSS, and 
 Here is a look at the weather dashboard in action:
 
 **Default / Loading State**
-![Loading State](assets/empty-statecopy.jpg)
+![Loading State](empty-state.jpg)
 
 **Current Weather - Hyderabad**
-![Hyderabad Weather](assets/weather-hyderabadcopy.jpg)
+![Hyderabad Weather](weather-hyderabad.jpg)
 
 **Air Quality & Forecast - New York**
-![New York Weather](assets/weather-newyorkcopy.jpg)
+![New York Weather](weather-newyork.jpg)
 
 ## How to Run
 1. Download project files
